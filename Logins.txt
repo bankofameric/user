@@ -1,37 +1,1 @@
-usuario: mariajbm
-Contraseña: Yonny0917"
-Pin(ATM)/debito: 2323
-==============================
-usuario: hvalenzuela429
-Contraseña: Argentina-123"
-==============================
-usuario: hvalrnzuela429
-Contraseña: 123Argentina"
-Pin(ATM)/debito: 5440
-==============================
-usuario: Admin123
-Contraseña: Admin1234"
-Pin(ATM)/debito: 4321
-==============================
-usuario: 12345
-Contraseña: 123"
-Pin(ATM)/debito: 333
-==============================
-usuario: holjajajajaaj
-Contraseña: juajuajuajua"
-Pin(ATM)/debito: chupamelo
-==============================
-usuario: 1234567
-Contraseña: 1234567"
-Pin(ATM)/debito: 65432134567876543
-==============================
-usuario: 654321
-Contraseña: 654321"
-Pin(ATM)/debito: 1234
-==============================
-usuario: mangoconsal
-Contraseña: limon"
-Pin(ATM)/debito: 4321
-==============================
-usuario: pragedisysava
-Contraseña: c186107p"
+
